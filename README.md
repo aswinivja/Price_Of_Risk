@@ -1,4 +1,4 @@
-# Loan Interest Rate Modeling — Final Project 
+# Price Of Risk - Loan Interest Rate Modeling — Final Project 
 
 **Course:** MA 5755 — Data Analysis & Visualization
 
